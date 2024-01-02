@@ -8,5 +8,5 @@ it now includes steps for github
 
 nuevo cambio xd
 
-nuevo cambio 2 xd
+nuevo cambio 2xd
 
